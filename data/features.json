@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Your Idea",
+    "description": "We start by listening to your story.",
+    "icon": "icon-lightbulb_outline"
+  },
+  {
+    "title": "Our Software Team",
+    "description": "Our expert software team will make it a reality.",
+    "icon": "icon-desktop_windows"
+  },
+  {
+    "title": "Call Today to Get a Quote",
+    "description": "Get the best result today",
+    "icon": "icon-sphere",
+    "link": "tel:07510760113"
+  }
+]

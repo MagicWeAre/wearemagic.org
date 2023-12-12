@@ -1,0 +1,43 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'WeAreMagic'
+theme = 'tella'
+
+[params]
+
+  showBlog = false
+
+  googleFonts = true
+
+  [params.logo]
+    main = "favicon.png"
+    alt = "WeAreMagic Logo"
+
+    # The size parameter is the class name of tailwindcss
+    # https://tailwindcss.com/
+    size = "h-14"
+
+  [params.site]
+    name = "WeAreMagic"
+
+  [params.icon]
+    #If you want to use FontAwesome, set this parameter to true.
+    fontawesome = true
+
+  [params.homepage_meta_tags]
+    meta_description = "WeAreMagic creates bespoke software for people like you"
+    meta_og_title = "WeAreMagic"
+    meta_og_type = "website"
+    meta_og_url = "https://wearemagic.org"
+    meta_og_description = "WeAreMagic creates bespoke software for people like you"
+    meta_twitter_card = "summary_large_image"
+    meta_twitter_site = "@wearemagicdev"
+    meta_twitter_creator = "@wearemagicdev"
+
+[menu]
+
+  [[menu.footer]]
+    name = "Github"
+    url = "https://github.com/magicweare"
+    pre = "<i class='icon-github text-2xl'></i>"
+      weight = 2

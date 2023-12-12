@@ -1,0 +1,22 @@
+{
+  "name": "wearemagic.org",
+  "version": "1.0.0",
+  "description": "Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magicweare/wearemagic.org.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/magicweare/wearemagic.org/issues"
+  },
+  "homepage": "https://github.com/magicweare/wearemagic.org#readme",
+  "dependencies": {
+    "postcss-cli": "^11.0.0"
+  }
+}
